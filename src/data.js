@@ -1,5 +1,24 @@
 // keep it commonjs export
-module.exports = [
+module.exports = [{
+    name: 'Christopher talke',
+    description: 'ICT Professional / Fullstack Web Dev and Skateboarder',
+    url: 'https://talke.dev/uses',
+    twitter: '@cbtalke',
+    emoji: '🍫',
+    country: '🇦🇺',
+    computer: 'windows',
+    phone: 'iphone',
+    tags: [
+      'Developer', 
+      'Full Stack', 
+      'Web',
+      'Gatsby',
+      'Devops',
+      'Node',
+      'JavaScript',
+      'React'
+    ]
+  },
   {
     name: 'Alex Duval',
     description: 'Fullstack Dev, Teacher, Freeride skier',
